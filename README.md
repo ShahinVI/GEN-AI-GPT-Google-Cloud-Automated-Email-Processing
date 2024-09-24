@@ -47,7 +47,7 @@ This project automates the process of fetching and analyzing emails using **Goog
 2. Create a **Telegram Bot** and obtain the API token and your user ID.
     - Communicate with father bot on telegram to create your bot.
     - after creating your bot start a chat with it.
-    - go to the following link after adjusting it to find your user ID. "https://api.telegram.org/bot<YourBotToken>/getUpdates"
+    - go to the following link after adjusting it to find your user ID. "https://api.telegram.org/bot"YourBotToken"/getUpdates"
     
 
 
